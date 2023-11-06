@@ -48,14 +48,19 @@ In summary, this code sets up the environment for a data analysis and machine le
 Building a credit card fraud detection project using machine learning is a great idea. Here's a step-by-step guide to help you get started, including Python code examples. We'll use Python and some popular libraries like Scikit-learn for this task.
 **Step 1: Import Necessary Libraries**
 You'll need to import libraries for data manipulation, visualization, and machine learning. Here's a list of some common libraries to get you started.
+
 **Step 2: Load and Explore the Dataset**
 You can download the dataset and load it into your Python environment. You can use the panda’s library to load the dataset.
 Now, explore the dataset to understand its structure, including its features and labels:
+
 **Step 3: Data Preprocessing**
 Data preprocessing is essential to prepare your data for machine learning. You may need to handle missing values, scale features, and split the data into training and testing sets:
+
 **Step 4: Feature Scaling**
 Feature scaling is essential for many machine learning algorithms. In this case, we'll use standardization:
+
 **Step 5: Train a Machine Learning Model**
 We'll use a Random Forest Classifier as an example, but you can experiment with other algorithms as well:
+
 **Step 6: Evaluate the Model**
 Now, evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score:
