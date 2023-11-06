@@ -46,6 +46,7 @@ In summary, this code sets up the environment for a data analysis and machine le
 
 # Step I used in a project.
 Building a credit card fraud detection project using machine learning is a great idea. Here's a step-by-step guide to help you get started, including Python code examples. We'll use Python and some popular libraries like Scikit-learn for this task.
+
 **Step 1: Import Necessary Libraries**
 You'll need to import libraries for data manipulation, visualization, and machine learning. Here's a list of some common libraries to get you started.
 
