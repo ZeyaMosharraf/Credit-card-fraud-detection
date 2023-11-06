@@ -9,20 +9,28 @@ Develop a machine learning-based credit card fraud detection system using a bala
 This dataset contains credit card transactions made by European cardholders in the year 2023. It comprises over 550,000 records, and the data has been anonymized to protect the cardholders' identities. The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions.
 
 **Key Features:**
+
 •	**id:** Unique identifier for each transaction
+
 •	**V1-V28:** Anonymized features representing various transaction attributes (e.g., time, location, etc.)
+
 •	**Amount:** The transaction amounts
+
 •	**Class:** Binary label indicating whether the transaction is fraudulent (1) or not (0)
 
 **Potential Use Cases:**
+
 •	**Credit Card Fraud Detection:** Build machine learning models to detect and prevent credit card fraud by identifying suspicious transactions based on the provided features.
+
 •	**Merchant Category Analysis:** Examine how different merchant categories are associated with fraud.
+
 •	**Transaction Type Analysis:** Analyze whether certain types of transactions are more prone to fraud than others.
+
 The fact that I have an equal number of legitimate and fraudulent transactions in my dataset can have advantages and disadvantages depending on the context of my analysis and the goals of my project.
 
 **Advantages:**
 1.	**Balanced Datasets:** A balanced dataset can make it easier to train machine learning models because each class has an equal representation. This can lead to more stable model training and may help prevent the model from being biased toward the majority class.
-2.	**Fair Evaluation:** When evaluating the performance of your model, a balanced dataset allows for a straightforward assessment of metrics like accuracy, precision, recall, and F1-score, as there's no significant class imbalance to skew the results.
+3.	**Fair Evaluation:** When evaluating the performance of your model, a balanced dataset allows for a straightforward assessment of metrics like accuracy, precision, recall, and F1-score, as there's no significant class imbalance to skew the results.
 
 
 **Disadvantages:**
