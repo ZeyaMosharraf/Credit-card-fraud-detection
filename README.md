@@ -75,7 +75,7 @@ We'll use a Random Forest Classifier as an example, but you can experiment with 
 Now, evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score:
 
 
-**Result**
+# **Result**
 
 1. Developed a machine learning model achieving 100% accuracy, precision, recall, and F1-score in identifying fraudulent transactions.
 2. The confusion matrix reveals only 6 false positives and 14 false negatives out of 113,726 transactions.
